@@ -53,7 +53,7 @@ pip install -r requirements.txt
 | XGBoost       | 0.8034 | 0.8389 | 0.6540 | 0.5508 | 0.5980 | 0.4721 |
 
 ## Deployment
-Live App: [To be added]
+Live App: https://tele-churn-prediction.streamlit.app/
 GitHub Repository: https://github.com/deekr27-stack/ML_classification_project
 
 ## Model Performance Observations
